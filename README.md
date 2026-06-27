@@ -36,11 +36,6 @@ g++ main.cpp -o ahorcado.exe
 ahorcado.exe
 ```
 
-## Prueba de funcionalidad
-
-https://github.com/AlexxFranco/ahorcado-en-cpp-con-personaje-grafico-y-con-registros/edit/main/README.md
----
-
 ## Tecnologías
 
 - C++
@@ -59,14 +54,6 @@ En Windows:
 g++ main.cpp -o ahorcado.exe
 ahorcado.exe
 ```
-
----
-
-## Prueba de funcionalidad
-
-https://github.com/AlexxFranco/pagina-web-autos/assets/prueba-de-funcionalidad-del-ahorcado.mp4
-
----
 
 ## Tecnologías
 
