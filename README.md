@@ -27,40 +27,7 @@ https://www.youtube.com/watch?v=d2T6ma8Py24
 
 ---
 
-## Cómo compilar y ejecutar
-
-```bash
-g++ main.cpp -o ahorcado
-./ahorcado
-```
-
-En Windows:
-
-```bash
-g++ main.cpp -o ahorcado.exe
-ahorcado.exe
-```
-
 ## Tecnologías
 
 - C++
 - Librerías estándar: `iostream`, `fstream`, `vector`, `string`, `ctime`---
-
-## Cómo compilar y ejecutar
-
-```bash
-g++ main.cpp -o ahorcado
-./ahorcado
-```
-
-En Windows:
-
-```bash
-g++ main.cpp -o ahorcado.exe
-ahorcado.exe
-```
-
-## Tecnologías
-
-- C++
-- Librerías estándar: `iostream`, `fstream`, `vector`, `string`, `ctime`
