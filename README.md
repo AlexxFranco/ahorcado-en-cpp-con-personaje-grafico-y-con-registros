@@ -38,8 +38,7 @@ ahorcado.exe
 
 ## Prueba de funcionalidad
 
-https://github.com/AlexxFranco/pagina-web-autos/assets/prueba-de-funcionalidad-del-ahorcado.mp4
-
+https://github.com/AlexxFranco/ahorcado-en-cpp-con-personaje-grafico-y-con-registros/edit/main/README.md
 ---
 
 ## Tecnologías
