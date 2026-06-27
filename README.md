@@ -20,6 +20,11 @@ El programa lee un listado de palabras desde el archivo `palabras.txt` y elige u
 - Al terminar la partida indica si ganaste o perdiste, revelando la palabra
 
 ---
+
+## Explicación
+
+https://www.youtube.com/watch?v=d2T6ma8Py24
+
 ---
 
 ## Cómo compilar y ejecutar
